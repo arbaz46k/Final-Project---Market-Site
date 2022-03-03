@@ -6,4 +6,4 @@ In short it provides jobs and services to others.
 The project is totally based on customer and worker, they themselves are the administrator and can access our Market-Site.   
 With the help of Market-Site anyone who has the knowledge about something can work for needy people.
 Due to this Market-Site has a slogan “Only Talent Required”.
-This project is build using Django as a backend framework bootstrap for styling and a little Javascript.
+This project is build using Django as a backend framework bootstrap for styling and Javascript.
